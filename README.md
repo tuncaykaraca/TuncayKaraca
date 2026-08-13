@@ -5,7 +5,7 @@ I'm currently independent Certified SAP Consultant working in Cloud, Analytics, 
 Follow me on:
 - LinkedIn https://www.linkedin.com/in/tuncaykaraca/ 
 - Twitter https://twitter.com/tncykarc
-- SAP Community https://people.sap.com/tuncay.karaca
+- SAP Community [https://people.sap.com/tuncay.karaca](https://community.sap.com/t5/user/viewprofilepage/user-id/137163)
 - Salesforce Trailblazer https://trailblazer.me/id/tncykarc 
   
 

@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I'm currently independent Certified SAP Consultant working in Cloud, Analytics, Data, Integration, Development.
-
-Follow me on:
-- LinkedIn https://www.linkedin.com/in/tuncaykaraca/ 
-- Twitter https://twitter.com/tncykarc
-- SAP Community [https://people.sap.com/tuncay.karaca](https://community.sap.com/t5/user/viewprofilepage/user-id/137163)
-- Salesforce Trailblazer https://trailblazer.me/id/tncykarc 
+I'm currently currently a Principal Developer | SAP, Build, Analytics, Integration, AI @ Mindset Consulting.
   
 
 <!--

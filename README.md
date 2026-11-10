@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Principal Developer | SAP, Build, Analytics, Integration, AI @ Mindset Consulting.
+I'm a Principal Developer | SAP | Build, Analytics, Integration, AI @ Mindset Consulting.
   
 
 <!--
